@@ -1,0 +1,8 @@
+# ignore All .log file
+*.log
+
+# ignore all files in /temp dir
+temp
+
+# not needed dirs
+w3schools-test.github.io
